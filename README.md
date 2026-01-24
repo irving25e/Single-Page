@@ -1,1 +1,1 @@
-Project URL: https://irving25e.github.io/single-page/
+Project URL: https://github.com/irving25e/Single-Page
